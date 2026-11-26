@@ -2,15 +2,15 @@
 """Roast the Smart Fridge: One Line, Best Laugh Wins.
 
 Deterministic entry program: writes exactly one roast line
-(141 characters, single line, UTF-8) to /output/entry.txt.
+(106 characters, single line, UTF-8) to /output/entry.txt.
 No input, no randomness, no network.
 """
 
 import os
 
 ENTRY = (
-    "My smart fridge screams 'door left open' while I'm standing right in "
-    "front of it \u2014 a lifeguard yelling at a man already drowning in the pool."
+    "My smart fridge beeps 'door open' at me while I'm holding it open, "
+    "like a smoke alarm applauding the fire."
 )
 
 
